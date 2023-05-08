@@ -1,0 +1,12 @@
+// Given a square matrix mat, return the sum of the matrix diagonals.
+
+// Only include the sum of all the elements on the primary diagonal and all the elements on the secondary diagonal that are not part of the primary diagonal.
+
+public class Solution {
+    public int DiagonalSum(int[][] mat) {
+        
+        return Enumerable.Range(0, mat.Length)
+            .Sum(i => i == mat.Length - i - 1 ? mat[i][i] 
+            : mat[i][i] + mat[i][mat.Length - i - 1]);
+    }
+}
