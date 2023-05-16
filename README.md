@@ -11,6 +11,9 @@ LeetCode
 |2671|[Frequency Tracker](https://leetcode.com/problems/frequency-tracker/) | [C#](./csharp/2671.FrequencyTracker.cs)|
 |2670|[Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/) | [C#](./csharp/2670.FindTheDistinctDifferenceArray.cs)|
 |2661|[First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) | [C#](./csharp/2661.FirstCompletelyPaintedRowOrColumn.cs)|
+|2660|[Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) | [C#](./csharp/2660.DetermineTheWinnerOfABowlingGame.cs)|
+|2657|[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [C#](./csharp/2657.FindThePrefixCommonArrayOfTwoArrays.cs)|
+|2656|[Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [C#](./csharp/2656.MaximumSumWithExactlyKElements.cs)|
 |2466|[Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | [C#](./csharp/2466.CountWaysToBuildGoodStrings.cs)|
 |2215|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [C#](./csharp/2215.FindTheDifferenceOfTwoArrays.cs)|
 |2140|[Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [C#](./csharp/2140.SolvingQuestionsWithBrainpower.cs)|
@@ -32,3 +35,4 @@ LeetCode
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C#](./csharp/63.UniquePathsII.cs)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [C#](./csharp/62.UniquePaths.cs)|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C#](./csharp/54.SpiralMatrix.cs)|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C#](./csharp/24.SwapNodesInPairs.cs)|
