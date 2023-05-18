@@ -21,18 +21,24 @@ LeetCode
 |1822|[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [C#](./csharp/1822.SignOfTheProductOfAnArray.cs)|
 |1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [C#](./csharp/1721.SwappingNodesInALinkedList.cs)|
 |1572|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [C#](./csharp/1572.MatrixDiagonalSum.cs)|
+|1557|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [C#](./csharp/1557.MinimumNumberOfVerticesToReachAllNodes.cs)|
 |1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [C#](./csharp/1491.AverageSalaryExcludingTheMinimumAndMaximumSalary.cs)|
 |1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [C#](./csharp/1456.MaximumNumberOfVowelsInASubstringOfGivenLength.cs)|
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | [C#](./csharp/1314.MatrixBlockSum.cs)|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C#](./csharp/1143.LongestCommonSubsequence.cs)|
+|931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [C#](./csharp/931.MinimumFallingPathSum.cs)|
 |649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [C#](./csharp/649.Dota2Senate.cs)|
 |518|[Coin Change II](https://leetcode.com/problems/coin-change-ii/) | [C#](./csharp/518.CoinChangeII.cs)|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C#](./csharp/392.IsSubsequence.cs)|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [C#](./csharp/376.WiggleSubsequence.cs)|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C#](./csharp/304.RangeSumQuery2D-Immutable.cs)|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C#](./csharp/300.LongestIncreasingSubsequence.cs)|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [C#](./csharp/264.UglyNumberII.cs)|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/) | [C#](./csharp/221.MaximalSquare.cs)|
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [C#](./csharp/120.Triangle.cs)|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [C#](./csharp/119.Pascal'sTriangleII.cs)|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C#](./csharp/118.Pascal'sTriangle.cs)|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [C#](./csharp/91.DecodeWays.cs)|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/) | [C#](./csharp/72.EditDistance.cs)|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [C#](./csharp/59.SpiralMatrixII.cs)|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [C#](./csharp/64.MinimumPathSum.cs)|
