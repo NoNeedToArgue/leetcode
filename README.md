@@ -37,6 +37,7 @@ LeetCode
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [C#](./csharp/931.MinimumFallingPathSum.cs)|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [C#](./csharp/740.DeleteAndEarn.cs)|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [C#](./csharp/714.BestTimeToBuyAndSellStockWithTransactionFee.cs)|
+|703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [C#](./csharp/703.KthLargestElementInAStream.cs)|
 |649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [C#](./csharp/649.Dota2Senate.cs)|
 |518|[Coin Change II](https://leetcode.com/problems/coin-change-ii/) | [C#](./csharp/518.CoinChangeII.cs)|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C#](./csharp/392.IsSubsequence.cs)|
@@ -46,6 +47,8 @@ LeetCode
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C#](./csharp/300.LongestIncreasingSubsequence.cs)|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [C#](./csharp/264.UglyNumberII.cs)|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/) | [C#](./csharp/221.MaximalSquare.cs)|
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/) | [C#](./csharp/213.HouseRobberII.cs)|
+|198|[House Robber](https://leetcode.com/problems/house-robber/) | [C#](./csharp/198.HouseRobber.cs)|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C#](./csharp/152.MaximumProductSubarray.cs)|
 |139|[Word Break](https://leetcode.com/problems/word-break/) | [C#](./csharp/139.WordBreak.cs)|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C#](./csharp/122.BestTimeToBuyAndSellStockII.cs)|
