@@ -6,6 +6,8 @@ LeetCode
 
 | № | Problem | Solution |
 |---| ----- | -------- |
+|2711|[Difference of Number of Distinct Values on Diagonals](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/) | [C#](./csharp/2711.DifferenceOfNumberOfDistinctValuesOnDiagonals.cs)|
+|2710|[Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [C#](./csharp/2710.RemoveTrailingZerosFromAString.cs)|
 |2697|[Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [C#](./csharp/2697.LexicographicallySmallestPalindrome.cs)|
 |2696|[Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [C#](./csharp/2696.MinimumStringLengthAfterRemovingSubstrings.cs)|
 |2683|[Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/) | [C#](./csharp/2683.NeighboringBitwiseXOR.cs)|
@@ -24,17 +26,20 @@ LeetCode
 |2140|[Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [C#](./csharp/2140.SolvingQuestionsWithBrainpower.cs)|
 |2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [C#](./csharp/2130.MaximumTwinSumOfALinkedList.cs)|
 |1822|[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [C#](./csharp/1822.SignOfTheProductOfAnArray.cs)|
+|1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [C#](./csharp/1768.MergeStringsAlternately.cs)|
 |1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [C#](./csharp/1721.SwappingNodesInALinkedList.cs)|
 |1572|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [C#](./csharp/1572.MatrixDiagonalSum.cs)|
 |1567|[Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | [C#](./csharp/1567.MaximumLengthOfSubarrayWithPositiveProduct.cs)|
 |1557|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [C#](./csharp/1557.MinimumNumberOfVerticesToReachAllNodes.cs)|
 |1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [C#](./csharp/1491.AverageSalaryExcludingTheMinimumAndMaximumSalary.cs)|
 |1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [C#](./csharp/1456.MaximumNumberOfVowelsInASubstringOfGivenLength.cs)|
+|1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [C#](./csharp/1431.KidsWithTheGreatestNumberOfCandies.cs)|
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | [C#](./csharp/1314.MatrixBlockSum.cs)|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C#](./csharp/1143.LongestCommonSubsequence.cs)|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [C#](./csharp/1046.LastStoneWeight.cs)|
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | [C#](./csharp/1014.BestSightseeingPair.cs)|
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [C#](./csharp/931.MinimumFallingPathSum.cs)|
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C#](./csharp/746.MinCostClimbingStairs.cs)|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [C#](./csharp/740.DeleteAndEarn.cs)|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [C#](./csharp/714.BestTimeToBuyAndSellStockWithTransactionFee.cs)|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [C#](./csharp/703.KthLargestElementInAStream.cs)|
@@ -52,11 +57,13 @@ LeetCode
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C#](./csharp/152.MaximumProductSubarray.cs)|
 |139|[Word Break](https://leetcode.com/problems/word-break/) | [C#](./csharp/139.WordBreak.cs)|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C#](./csharp/122.BestTimeToBuyAndSellStockII.cs)|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C#](./csharp/121.BestTimeToBuyAndSellStock.cs)|
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [C#](./csharp/120.Triangle.cs)|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [C#](./csharp/119.Pascal'sTriangleII.cs)|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C#](./csharp/118.Pascal'sTriangle.cs)|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [C#](./csharp/91.DecodeWays.cs)|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/) | [C#](./csharp/72.EditDistance.cs)|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C#](./csharp/70.ClimbingStairs.cs)|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [C#](./csharp/59.SpiralMatrixII.cs)|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [C#](./csharp/64.MinimumPathSum.cs)|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C#](./csharp/63.UniquePathsII.cs)|
