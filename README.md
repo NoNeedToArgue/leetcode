@@ -6,6 +6,9 @@ LeetCode
 
 | № | Problem | Solution |
 |---| ----- | -------- |
+|2718|[Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/) | [C#](./csharp/2718.SumOfMatrixAfterQueries.cs)|
+|2717|[Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/) | [C#](./csharp/2717.Semi-OrderedPermutation.cs)|
+|2716|[Minimize String Length](https://leetcode.com/problems/minimize-string-length/) | [C#](./csharp/2716.MinimizeStringLength.cs)|
 |2711|[Difference of Number of Distinct Values on Diagonals](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/) | [C#](./csharp/2711.DifferenceOfNumberOfDistinctValuesOnDiagonals.cs)|
 |2710|[Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [C#](./csharp/2710.RemoveTrailingZerosFromAString.cs)|
 |2697|[Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [C#](./csharp/2697.LexicographicallySmallestPalindrome.cs)|
@@ -28,6 +31,8 @@ LeetCode
 |2215|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [C#](./csharp/2215.FindTheDifferenceOfTwoArrays.cs)|
 |2140|[Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [C#](./csharp/2140.SolvingQuestionsWithBrainpower.cs)|
 |2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [C#](./csharp/2130.MaximumTwinSumOfALinkedList.cs)|
+|1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [C#](./csharp/1929.ConcatenationOfArray.cs)|
+|1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [C#](./csharp/1920.BuildArrayFromPermutation.cs)|
 |1822|[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [C#](./csharp/1822.SignOfTheProductOfAnArray.cs)|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [C#](./csharp/1768.MergeStringsAlternately.cs)|
 |1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [C#](./csharp/1721.SwappingNodesInALinkedList.cs)|
